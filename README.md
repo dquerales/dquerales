@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Daniel Querales @dquerales
+- ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
 <!---
 - 🌱 I’m currently learning...
