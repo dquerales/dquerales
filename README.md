@@ -1,13 +1,28 @@
-- 👋 Hi, I’m Daniel Querales @dquerales
+<h1 align="center">
+  <b>Daniel Querales</b>
+</h1>
+
+* [My Portfolio](https://dquerales.github.io/DanielPortfolio/)
+* [My Data Science Repository](https://github.com/dquerales/DataScience)
+
+# About me
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
-<!---
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 
-<!---
-dquerales/dquerales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact me 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
+<!-- [![Tableau][Tableau-shield]][Tableau-url] -->
+
+
+
+
+
+
+
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:d.querales@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/daniel-querales/
+[Tableau-shield]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+[Tableau-url]: https://public.tableau.com/app/profile/daniel.querales
