@@ -2,12 +2,13 @@
   <b>Daniel Querales</b>
 </h1>
 
-* [My Portfolio](https://dquerales.github.io/DanielPortfolio/)
-* [My Data Science Repository](https://github.com/dquerales/DataScience)
-
 # About me
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
+
+# Data Science
+* [My Portfolio Site](https://dquerales.github.io/DanielPortfolio/)
+* [My Repository](https://github.com/dquerales/DataScience)
 
 # Contact me 
 [![LinkedIn][linkedin-shield]][linkedin-url]
