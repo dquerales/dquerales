@@ -7,7 +7,7 @@
 - 👀 I’m currently interested in Data Science
 
 # Data Science
-* [My Portfolio Site](https://dquerales.github.io/DanielPortfolio/)
+* [My Portfolio](https://dquerales.github.io/DanielPortfolio/)
 * [My Repository](https://github.com/dquerales/DataScience)
 
 # Contact me 
