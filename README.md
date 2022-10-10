@@ -1,16 +1,16 @@
 <h1 align="center">
   <b>Daniel Querales</b>
+  <p><i>Electrical Engineer / Data Scientist</i>
 </h1>
 
-# About me
+
+## About me 
 - ✨ I'm an Electrical Engineer
-- 👀 I’m currently interested in Data Science
+- 👀 I’m currently interested in Data Science:
+  * [Check my Portfolio](https://dquerales.github.io/DanielPortfolio/)
+  * [Check my Repository](https://github.com/dquerales/DataScience)
 
-# Data Science
-* [My Portfolio](https://dquerales.github.io/DanielPortfolio/)
-* [My Repository](https://github.com/dquerales/DataScience)
-
-# Contact me 
+## Contact me 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 <!-- [![Tableau][Tableau-shield]][Tableau-url] -->
