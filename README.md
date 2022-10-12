@@ -1,12 +1,11 @@
-<h1 align="center">
-  <b>Daniel Querales</b>
-  <p><i>Electrical Engineer / Data Scientist</i>
-</h1>
-
+# Daniel Querales
+<i>Electrical Engineer | Data Scientist</i>
 
 ## About me 
 - ✨ I'm an Electrical Engineer
-- 👀 I’m currently interested in Data Science:
+- 👀 I’m currently interested in Data Science
+
+## Data Science
   * [Check my Portfolio](https://dquerales.github.io/DanielPortfolio/)
   * [Check my Repository](https://github.com/dquerales/DataScience)
 
