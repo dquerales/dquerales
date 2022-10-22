@@ -1,15 +1,15 @@
-# Daniel Querales
+# DANIEL QUERALES
 <i>Electrical Engineer | Data Scientist</i>
 
-## About me 
+## ABOUT ME
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
 
-### Data Science
+### DATA SCIENCE
   * [Check my Portfolio](https://dquerales.github.io/DanielPortfolio/)
   * [Check my Repository](https://github.com/dquerales/DataScience)
 
-## Contact me 
+## CONTACT ME 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 <!-- [![Tableau][Tableau-shield]][Tableau-url] -->
