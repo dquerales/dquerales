@@ -23,6 +23,6 @@
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:d.querales@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/daniel-querales/
+[linkedin-url]: https://www.linkedin.com/in/danielquerales/
 [Tableau-shield]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 [Tableau-url]: https://public.tableau.com/app/profile/daniel.querales
