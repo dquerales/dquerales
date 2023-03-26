@@ -5,7 +5,7 @@
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
 
-### DATA SCIENCE
+## DATA SCIENCE
   * [Check my Portfolio](https://dquerales.github.io/DanielPortfolio/)
   * [Check my Repository](https://github.com/dquerales/DataScience)
 
