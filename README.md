@@ -6,13 +6,13 @@
 - 👀 I’m currently interested in Data Science
 
 ## DATA SCIENCE
-  * [My Site](https://dquerales.github.io/DanielPortfolio/)
-  * [Data Science Repository](https://github.com/dquerales/DataScience)
+  * [Portfolio Site](https://dquerales.github.io/DanielPortfolio/)
+  * [DataScience Repository](https://github.com/dquerales/DataScience)
 
 ## CONTACT ME 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
-<!-- [![Tableau][Tableau-shield]][Tableau-url] -->
+[![Tableau][Tableau-shield]][Tableau-url]
 
 
 
