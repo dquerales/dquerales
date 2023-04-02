@@ -5,11 +5,11 @@
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
  
-### DATA SCIENCE
+## DATA SCIENCE
 * [Portfolio](https://dquerales.github.io/DanielPortfolio/)
 * [Repository](https://github.com/dquerales/DataScience)
 
-### CONTACT ME 
+## CONTACT ME 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Tableau][Tableau-shield]][Tableau-url]
