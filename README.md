@@ -1,18 +1,18 @@
 
 # DANIEL QUERALES 
 #### Electrical Engineer | Data Scientist 
-## ABOUT ME
+
+## About me
 - ✨ I'm an Electrical Engineer
 - 👀 I’m currently interested in Data Science
 - 📫 How to reach me **d.querales@gmail.com**
     
-## DATA SCIENCE
+## Data Science
 * :briefcase: [Portfolio](https://dquerales.github.io/DanielPortfolio/)
 * :computer: [Repository](https://github.com/dquerales/DataScience)
 * :muscle: [Resume](https://dquerales.github.io/DanielPortfolio/resume.html)
   
-## CONNECT
-
+## LinkedIn
 <p align="left">
 <a href="https://linkedin.com/in/danielquerales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielquerales" height="30" width="40" /></a>
 </p>
@@ -24,6 +24,6 @@
 ## GITHUB
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dquerales&show_icons=true&locale=en&layout=compact" alt="dquerales" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dquerales&show_icons=true&locale=en" alt="dquerales" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dquerales&show_icons=true&locale=en" alt="dquerales" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dquerales&" alt="dquerales" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dquerales&" alt="dquerales" /></p></center>
